@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riddell_Inventory", "Riddell_Inventory\Riddell_Inventory.csproj", "{1E42D4D3-FD52-44B2-BB25-82FCCE1DE860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E42D4D3-FD52-44B2-BB25-82FCCE1DE860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E42D4D3-FD52-44B2-BB25-82FCCE1DE860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E42D4D3-FD52-44B2-BB25-82FCCE1DE860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E42D4D3-FD52-44B2-BB25-82FCCE1DE860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E849EDE-2465-4B8B-AB7A-A0887EB139D6}
+	EndGlobalSection
+EndGlobal
